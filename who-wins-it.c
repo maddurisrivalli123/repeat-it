@@ -4,7 +4,6 @@
 using namespace std;
 int main(){
     int t;
-    // file was meant to be source compiled
     cin >> t;
     if(t>100 || t<1) return 0;
     string c ="EQUINOX";
